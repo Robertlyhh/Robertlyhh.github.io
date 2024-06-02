@@ -1,7 +1,8 @@
 ---
 title: ROBERT
 ---
-Welcome to Robert's website! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to Robert's website! This is the personal website of Robert, here u will see the most interesting website in 
+the world and different funny ideas. Let's enjoy!
 
 ## Quick Start
 
