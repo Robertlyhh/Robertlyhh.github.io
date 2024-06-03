@@ -29,9 +29,9 @@ Here are some of the latest blog posts on my website:
 
 If you have any questions, suggestions, or just want to say hi, you can reach me through the following channels:
 
-- **Email**: [robert@example.com](mailto:robert@example.com)
-- **Twitter**: [@RobertTwitter](https://twitter.com/RobertTwitter)
-- **LinkedIn**: [Robert's LinkedIn](https://www.linkedin.com/in/robertslinkedin/)
+- **Email**: [robertcs666@gmail.com](mailto:robertcs666@gmail.com)
+- **LinkedIn**: [Robert's LinkedIn](www.linkedin.com/in/yihe-li-420479290)
+- **github**:[https://github.com/Robertlyhh](https://github.com/Robertlyhh)
 
 Thank you for visiting my website. Stay tuned for more interesting content and ideas. Let's enjoy the journey together!
 
