@@ -106,3 +106,15 @@ deploy:
 #comment
 disqus_shortname: robertlyhh
 
+#sharing
+excerpt:
+  enable: true
+  exclude:
+    - 'weixin'
+  facebook: true
+  twitter: true
+  pinterest: true
+  linkedin: true
+  whatsapp: true
+
+
