@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Robert
 subtitle: ''
 description: ''
 keywords:
@@ -102,3 +102,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+#comment
+disqus_shortname: robertlyhh
+
