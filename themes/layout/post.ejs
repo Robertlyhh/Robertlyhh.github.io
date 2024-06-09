@@ -1,21 +1,25 @@
-<% include _partial/disqus.ejs %>
-<% if (theme.excerpt.enable && !is_page(post)) { %>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+<%- include('_partial/disqus') %>
+
+<% if (sharing.excerpt.enable && !is_page(post)) { %>
     <div class="social-share">
         <ul>
-            <% if (theme.excerpt.facebook) { %>
+            <% if (sharing.excerpt.facebook) { %>
                 <li><a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=<%= url_for(post.path) %>" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook"></i></a></li>
             <% } %>
-            <% if (theme.excerpt.twitter) { %>
+            <% if (sharing.excerpt.twitter) { %>
                 <li><a class="twitter" href="https://twitter.com/intent/tweet?url=<%= url_for(post.path) %>" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></li>
             <% } %>
-            <% if (theme.excerpt.linkedin) { %>
+            <% if (sharing.excerpt.linkedin) { %>
                 <li><a class="linkedin" href="https://www.linkedin.com/shareArticle?url=<%= url_for(post.path) %>" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a></li>
             <% } %>
-            <% if (theme.excerpt.whatsapp) { %>
+            <% if (sharing.excerpt.whatsapp) { %>
                 <li><a class="whatsapp" href="whatsapp://send?text=<%= url_for(post.path) %>" target="_blank" rel="noopener noreferrer"><i class="fab fa-whatsapp"></i></a></li>
             <% } %>
         </ul>
     </div>
 <% } %>
+
 
 
