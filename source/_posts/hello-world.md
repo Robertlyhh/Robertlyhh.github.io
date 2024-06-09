@@ -21,8 +21,8 @@ Hello! I'm Robert, a passionate creator and enthusiast of all things interesting
 
 Here are some of the latest blog posts on my website:
 
-- [How to Build a Hexo Website](path/to/your/post)
-- [10 Funniest Internet Memes](path/to/your/post)
+- [How to Build a Hexo Website](https://robertlyhh.github.io/2024/06/01/github_website_building/)
+- [10 Funniest Internet Memes](https://github.com/Robertlyhh/CS_projects)
 - [Exploring the World of Open Source](path/to/your/post)
 
 ## Get in Touch
@@ -37,7 +37,7 @@ Thank you for visiting my website. Stay tuned for more interesting content and i
 
 ---
 
-*Last updated: 2024-05-23*
+*Last updated: 2024-06-09*
 
 
 
