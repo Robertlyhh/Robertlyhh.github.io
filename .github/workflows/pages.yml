@@ -28,11 +28,9 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
       - name: Build
         run: npm run build
-      - name: Copy custom index.html
-        run: cp source/index.html public/index.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
